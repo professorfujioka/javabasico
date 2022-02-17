@@ -1,4 +1,4 @@
-# Cursos da Java Básico Programação orientada a objetos da UBTECH-TI
+# Cursos da Java Básico Programação orientada a objetos da UNIESP
 
 
 
@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Version-v0.0.4-green.svg" alt="Versão" />
 
 Repositório da disciplina de metodologia e Linguagem de Programação 2 (Java Básico).
-- [Unipê](http://unipe.edu.br)
+- []()
 
 
 ## Pré requisito
